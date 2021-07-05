@@ -1,0 +1,25 @@
+body{
+  font-family: 'Roboto Slab', serif;
+  text-transform: capitalize;
+}
+.tomato-color{
+  color: tomato;
+}
+.button{
+  text-decoration: none;
+  background-image:linear-gradient( salmon,orange);
+  padding: 10px 10px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.image{
+  width: 40%;
+}
+
+.half-width{
+  width: 50%;
+}
+
+.flex{
+  display: flex;
+}
