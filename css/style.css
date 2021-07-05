@@ -15,11 +15,26 @@ body{
 .image{
   width: 40%;
 }
-
+.image-2{
+  width: 50%;
+}
 .half-width{
   width: 50%;
+ 
 }
 
 .flex{
   display: flex;
+}
+.need-padding{
+  padding-left: 50px;
+}
+
+.button-two{
+  text-decoration: none;
+  background-image:linear-gradient( salmon,orange);
+  padding: 10px 10px;
+  font-weight: 700;
+  border-radius: 5px; 
+  margin-left: 50px;
 }
