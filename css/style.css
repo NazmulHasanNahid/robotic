@@ -1,6 +1,8 @@
 body{
   font-family: 'Roboto Slab', serif;
   text-transform: capitalize;
+  background-image: url('../img/top-banner.png');
+  background-repeat: no-repeat;
 }
 .tomato-color{
   color: tomato;
@@ -28,6 +30,9 @@ body{
 }
 .need-padding{
   padding-left: 50px;
+  background-image: url('../img/dream-bg.png');
+  background-repeat: no-repeat;
+  background-position:right ;
 }
 
 .button-two{
